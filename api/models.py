@@ -45,3 +45,5 @@ class Link(Base):
     tmdbId = Column(Integer)
 
     movie = relationship("Movie", back_populates="link")
+
+

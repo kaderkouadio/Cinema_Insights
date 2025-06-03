@@ -16,9 +16,9 @@ SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 # Définir Base, qui servira de classe de base pour nos modèles SQLAlchemy.
 Base = declarative_base()
 
-if __name__ == "__main__":
-    try:
-        with engine.connect() as conn:
-            print("Connexion à la database réussie")
-    except Exception as e:
-        print(f"Erreur de connexion à la database : {e}")
+# if __name__ == "__main__":
+#     try:
+#         with engine.connect() as conn:
+#             print("Connexion à la database réussie")
+#     except Exception as e:
+#         print(f"Erreur de connexion à la database : {e}")
