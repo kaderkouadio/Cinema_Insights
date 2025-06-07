@@ -133,13 +133,15 @@ Les contributions sont les bienvenues !
 
 ## Software Development Kit (SDK)
 
-*A venir*
+
+- 📦 **PyPI** : [https://pypi.org/project/cinelytics_sdk](https://pypi.org/project/cinelytics_sdk)
+
 
 ---
 
 ## URL publique (Cloud) de l'API
 
-*A venir*
+- 🌍 **API (Render)** : [https://cinema-insights.onrender.com](https://cinema-insights.onrender.com)
 
 ## Auteur
 
